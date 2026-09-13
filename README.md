@@ -40,12 +40,16 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #446 | **Munchlax** | — | — | — | **Slack Off** Lv.56 |
 | #461 | **Weavile** | — | — | Pressure → **Tough Claws** <br> Unburden (H) → **Technician (H)** | **Mountain Gale** Lv.72 |
 | #466 | **Electivire** | — | **Spe** 95 → **105** | **Electric Surge** | **Volt Tackle** Lv.68 |
-| #530 | **Excadrill** | — | — | — | **Accelerock** Lv.54 <br> **Ice Spinner** TM <br> **U-Turn** TM |
+| #530 | **Drilbur** | — | — | — | **Accelerock** Lv.52 <br> **Ice Spinner** TM <br> **U-Turn** TM |
+| #530 | **Excadrill** | — | — | — | **Accelerock** Lv.64 <br> **Ice Spinner** TM <br> **U-Turn** TM |
 | #560 | **Scrafty** | — | — | — | **Body Press** Lv.42 <br> TM |
 | #573 | **Cinccino** | — | — | — | **Arm Thrust** Lv.1 |
 | #598 | **Ferrothorn** | — | — | — | **Snap Trap** evo |
-| #612 | **Haxorus** | Dragon → Dragon/**Steel** | **HP** 76 → **106** <br> **Atk** 147 → **167** <br> **Def** 90 → **100** | Unnerve (H) → **Sharpness (H)** | Dragon Pulse Lv.36 → **Dragon Axe**(new) Lv.36 <br> Outrage Lv.46 → **Excalibur**(new) Lv.46 |
+| #612 | **Haxorus** | Dragon → Dragon/**Steel** | **HP** 76 → **106** <br> **Atk** 147 → **167** <br> **Def** 90 → **100** | Unnerve (H) → **Sharpness (H)** | Outrage Lv.46 → **Excalibur**(new) Lv.46 |
 | #706 | **Goodra** | Dragon → Dragon/**Water** | — | Sap Sipper → **Gooey** <br> Gooey (H) → **Poison Heal (H)** | — |
 
 ### Moves
 Gale Wings changed back to Gen 6
+
+## AI Disclosure
+Why would I vibe code such an easy project?
