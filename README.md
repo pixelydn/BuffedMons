@@ -30,7 +30,6 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #249 | **Lugia** | Psychic/Flying → **Water**/Flying | - | - | - |
 | #285 | **Shroomish** | - | - | - | Giga Drain Lv.26 → **Lv.22** <br> **Trailblaze** Lv.26 TM |
 | #286 | **Breloom** | - | - | - | **Trailblaze** Lv.25 TM |
-| #303 | **Mawile** | - | - | - | - |
 | #373 | **Salamence** | - | - | - | **Dragon Ascent** Lv.64 |
 | #375 | **Metang** | - | - | - | Hyper Beam Lv.74 → **Psyshield Bash** Lv.74 <br> **Shift Gear** Lv.82 |
 | #376 | **Metagross** | - | - | - | Hyper Beam Lv.82 → **Psyshield Bash** Lv.82 <br> **Shift Gear** Lv.92 |
@@ -45,6 +44,9 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #573 | **Cinccino** | - | - | - | **Arm Thrust** Lv.1 |
 | #598 | **Ferrothorn** | - | - | - | **Snap Trap** Lv.1 evo |
 | #612 | **Haxorus** | Dragon → Dragon/**Steel** | **HP** 76 → **106** <br> **Atk** 147 → **167** <br> **Def** 90 → **100** | Unnerve (H) → **Sharpness (H)** | Outrage Lv.46 → **Excalibur**(new) Lv.46 |
+| #638 | **Cobalion** | - | - | **Sharpness (H)** | **Tachyon Cutter** Lv.1 |
+| #639 | **Terrakion** | - | - | **Sharpness (H)** | **Mighty Cleave** Lv.1 |
+| #640 | **Virizion** | - | - | **Sharpness (H)** | **Psyblade** Lv.1 |
 | #706 | **Goodra** | Dragon → Dragon/**Water** | - | Sap Sipper → **Gooey** <br> Gooey (H) → **Poison Heal (H)** | - |
 
 ### Moves

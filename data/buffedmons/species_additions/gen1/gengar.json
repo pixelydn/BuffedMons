@@ -1,0 +1,8 @@
+{
+    "target": "cobblemon:gengar",
+    "abilities": [
+        "cursedbody",
+        "levitate",
+        "h:sheerforce"
+    ]
+}
