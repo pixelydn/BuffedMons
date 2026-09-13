@@ -16,7 +16,6 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | Move | Type | Cat | BP | Acc | PP | Flags |
 |:---|:---:|:---:|:---:|:---:|:---:|:---|
 | Excalibur | Steel | Physical | 110 | 85 | 5 | contact · slicing |
-| Horn Bite | Steel | Physical | 80 | 100 | 15 | contact · biting · 30% flinch |
 
 ### Species
 
@@ -29,9 +28,9 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #212 | **Scizor** | - | - | - | **Fell Stinger** Lv.50 |
 | #215 | **Sneasel** | - | - | - | Slash Lv.50 → **Mountain Gale** Lv.50 |
 | #249 | **Lugia** | Psychic/Flying → **Water**/Flying | - | - | - |
-| #285 | **Shroomish** | - | - | - | Giga Drain Lv.26 → **Lv.22** <br> **Trailblaze** Lv.26 <br> TM |
-| #286 | **Breloom** | - | - | - | **Trailblaze** Lv.25 <br> TM |
-| #303 | **Mawile** | - | - | - | **Horn Bite**(new) Lv.52 |
+| #285 | **Shroomish** | - | - | - | Giga Drain Lv.26 → **Lv.22** <br> **Trailblaze** Lv.26 TM |
+| #286 | **Breloom** | - | - | - | **Trailblaze** Lv.25 TM |
+| #303 | **Mawile** | - | - | - | - |
 | #373 | **Salamence** | - | - | - | **Dragon Ascent** Lv.64 |
 | #375 | **Metang** | - | - | - | Hyper Beam Lv.74 → **Psyshield Bash** Lv.74 <br> **Shift Gear** Lv.82 |
 | #376 | **Metagross** | - | - | - | Hyper Beam Lv.82 → **Psyshield Bash** Lv.82 <br> **Shift Gear** Lv.92 |
@@ -42,7 +41,7 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #466 | **Electivire** | - | **Spe** 95 → **105** | **Electric Surge** | **Volt Tackle** Lv.68 |
 | #530 | **Drilbur** | - | - | - | **Accelerock** Lv.52 <br> **Ice Spinner** TM <br> **U-Turn** TM |
 | #530 | **Excadrill** | - | - | - | **Accelerock** Lv.64 <br> **Ice Spinner** TM <br> **U-Turn** TM |
-| #560 | **Scrafty** | - | - | - | **Body Press** Lv.42 <br> TM |
+| #560 | **Scrafty** | - | - | - | **Body Press** TM |
 | #573 | **Cinccino** | - | - | - | **Arm Thrust** Lv.1 |
 | #598 | **Ferrothorn** | - | - | - | **Snap Trap** Lv.1 evo |
 | #612 | **Haxorus** | Dragon → Dragon/**Steel** | **HP** 76 → **106** <br> **Atk** 147 → **167** <br> **Def** 90 → **100** | Unnerve (H) → **Sharpness (H)** | Outrage Lv.46 → **Excalibur**(new) Lv.46 |
