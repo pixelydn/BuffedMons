@@ -36,7 +36,7 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #405 | **Luxray** | - | **Spe** 70 → **110** | - | **Fake Out** TM |
 | #445 | **Garchomp** | - | - | - | **Flip Turn** TM |
 | #446 | **Munchlax** | - | - | - | **Slack Off** Lv.56 |
-| #461 | **Weavile** | - | - | Pressure → **Tough Claws** <br> Unburden (H) → **Technician (H)** | **Mountain Gale** Lv.72 |
+| #461 | **Weavile** | - | - | Pressure → **Tough Claws** <br> **Pickpocket** <br> Pickpocket (H) → **Technician (H)** | **Mountain Gale** Lv.72 |
 | #466 | **Electivire** | - | **Spe** 95 → **105** | **Electric Surge** | **Volt Tackle** Lv.68 |
 | #530 | **Drilbur** | - | - | - | **Accelerock** Lv.52 <br> **Ice Spinner** TM <br> **U-Turn** TM |
 | #530 | **Excadrill** | - | - | - | **Accelerock** Lv.64 <br> **Ice Spinner** TM <br> **U-Turn** TM |
