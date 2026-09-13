@@ -1,0 +1,21 @@
+{
+    "target": "cobblemon:ferroseed",
+    "evolutions": [
+        {
+            "id": "ferroseed_ferrothorn",
+            "variant": "level_up",
+            "result": "ferrothorn",
+            "consumeHeldItem": false,
+            "learnableMoves": [
+                "powerwhip",
+                "snaptrap"
+            ],
+            "requirements": [
+                {
+                    "variant": "level",
+                    "minLevel": 40
+                }
+            ]
+        }
+    ]
+}
