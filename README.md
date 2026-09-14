@@ -11,23 +11,31 @@ Also I like the idea of a Pokémon group so if 1 in the group out buff the rest 
 
 1. [Mega Showdown](https://modrinth.com/mod/cobblemon-mega-showdown) 1.0+1.8+1.21.1-BETA or newer
 
-### Type chart
+### Type Chart
 
 Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 
-### Custom moves
+### Custom Moves
 
 | Move | Type | Cat | BP | Acc | PP | Flags |
 |:---|:---:|:---:|:---:|:---:|:---:|:---|
 | Excalibur | Steel | Physical | 110 | 85 | 5 | contact · slicing |
+
+### Moves
+
+| Move | Type | Cat | BP | Acc | PP | Flags |
+|:---|:---:|:---:|:---:|:---:|:---:|:---|
+| Psystrike | Psychic | Special | 100 | 100 | 10 | phys def · neutral to Dark · shell side arm clone |
 
 ### Species
 
 | Dex | Pokémon | Type | Stats | Abilities | Moves |
 |:---:|:---|:---|:---|:---|:---|
 | #094 | **Gengar** | - | - | **Levitate** <br> **Sheer Force (H)** | - |
+| #142 | **Aerodactyl** | - | - | - | Giga Impact Lv.60 → **Head Smash** Lv.60 <br> **Brave Bird** TM|
 | #143 | **Snorlax** | - | - | - | **Slack Off** Lv.1 |
 | #149 | **Dragonite** | - | - | - | **Dragon Ascent** Lv.71 |
+| #150 | **Mewtwo** | - | - | Pressure → **Neuroforce** <br> Unnerve (H) → **Psychic Surge (H)** |
 | #215 | **Sneasel** | - | - | - | Slash Lv.50 → **Mountain Gale** Lv.50 |
 | #249 | **Lugia** | Psychic/Flying → **Water**/Flying | - | - | - |
 | #285 | **Shroomish** | - | - | - | Giga Drain Lv.26 → **Lv.22** <br> **Trailblaze** Lv.26 TM |
@@ -52,8 +60,9 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #647 | **Keldeo** | - | - | **Sharpness (H)** |
 | #706 | **Goodra** | Dragon → Dragon/**Water** | - | Sap Sipper → **Gooey** <br> Gooey (H) → **Poison Heal (H)** | - |
 
-### Moves
-Gale Wings changed back to Gen 6
+### Abilities
+Gale Wings revert back to Gen 6
+Justified activating by Dark **Ghost** and **Bug** type attacks, and boost Atk and **Spa** by 1 stage
 
 ## AI Disclosure
 Why would I vibe code such an easy project?

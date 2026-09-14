@@ -1,0 +1,7 @@
+{
+    "target":"cobblemon:terrakion",
+    "abilities": [
+        "justified",
+        "h:sharpness"
+    ]
+}
