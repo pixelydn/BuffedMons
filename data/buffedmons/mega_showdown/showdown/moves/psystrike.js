@@ -24,6 +24,11 @@
 			move.overrideDefensiveStat = 'spd';
 		}
 	},
+	onHit(target, source, move) {
+        const atk = move.category === 'Physical' ? 'physical' : 'special';
+        const def = move.overrideDefensiveStat === 'def' ? 'physical' : 'special';
+        this.add('-activate', source, 'move: Psystrike', '[msg]' + atk + def);
+	},
 	secondary: null,
 	target: "normal",
 	type: "Psychic",

@@ -5,6 +5,8 @@ The buffs needs the thematically make sense and make them viable in UU/OU/Uber u
 <br>
 Also I like the idea of a Pokémon group so if 1 in the group out buff the rest will too.
 
+Feel free to drop any suggestions as an issue, I need more ideas.
+
 ### Requirement
 
 1. [Cobblemon](https://modrinth.com/mod/cobblemon) 1.8 or newer

@@ -1,0 +1,9 @@
+{
+    "cobblemon.move.excalibur": "EX咖喱棒",
+    "cobblemon.move.excalibur.desc": "呆毛王开大",
+    
+    "cobblemon.battle.activate.psystrike.physicalphysical": "物理精神击破，造成物理伤害",
+    "cobblemon.battle.activate.psystrike.physicalspecial": "物理精神击破，造成特殊伤害",
+    "cobblemon.battle.activate.psystrike.specialphysical": "特殊精神击破，造成物理伤害",
+    "cobblemon.battle.activate.psystrike.specialspecial": "特殊精神击破，造成特殊伤害"
+}

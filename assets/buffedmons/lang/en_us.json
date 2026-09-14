@@ -1,0 +1,9 @@
+{
+    "cobblemon.move.excalibur": "Excalibur",
+    "cobblemon.move.excalibur.desc": "The user slashes the enemy using the holy sword",
+    
+    "cobblemon.battle.activate.psystrike.physicalphysical": "Physical Psystrike dealing Physical damage",
+    "cobblemon.battle.activate.psystrike.physicalspecial": "Physical Psystrike dealing Special damage",
+    "cobblemon.battle.activate.psystrike.specialphysical": "Special Psystrike dealing Physical damage",
+    "cobblemon.battle.activate.psystrike.specialspecial": "Special Psystrike dealing Special damage"
+}
