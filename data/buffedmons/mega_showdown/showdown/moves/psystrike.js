@@ -3,7 +3,6 @@
 	accuracy: 100,
 	basePower: 100,
 	category: "Special",
-	overrideDefensiveStat: 'def',
 	name: "Psystrike",
 	pp: 10,
 	priority: 0,
@@ -12,23 +11,19 @@
 		if (type === 'Dark') return 0;
 	},
     onModifyMove(move, pokemon, target) {
-		if (!target) return;
-		const atk = pokemon.getStat('atk', false, true);
-		const spa = pokemon.getStat('spa', false, true);
-		const def = target.getStat('def', false, true);
-		const spd = target.getStat('spd', false, true);
-		const physical = Math.floor(Math.floor(Math.floor(Math.floor(2 * pokemon.level / 5 + 2) * 90 * atk) / def) / 50);
-		const special = Math.floor(Math.floor(Math.floor(Math.floor(2 * pokemon.level / 5 + 2) * 90 * spa) / spd) / 50);
-		if (physical > special || (physical === special && this.random(2) === 0)) {
+		// Use the higher Attack or Special Attack stat
+		if (pokemon.getStat('atk', false, true) > pokemon.getStat('spa', false, true)) {
 			move.category = 'Physical';
-			move.flags.contact = 1;
+		} else {
+			move.category = 'Special'; 
 		}
-	},
-	onHit(target, source, move) {
-		this.hint(move.category + " Psystrike");
-	},
-	onAfterSubDamage(damage, target, source, move) {
-		this.hint(move.category + " Psystrike");
+		// Target the weaker Defense or Special Defense stat
+		if (!target) return;
+		if (target.getStat('def', false, true) < target.getStat('spd', false, true)) {
+			move.overrideDefensiveStat = 'def';
+		} else {
+			move.overrideDefensiveStat = 'spd';
+		}
 	},
 	secondary: null,
 	target: "normal",

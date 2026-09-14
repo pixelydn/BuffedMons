@@ -25,7 +25,7 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 
 | Move | Type | Cat | BP | Acc | PP | Flags |
 |:---|:---:|:---:|:---:|:---:|:---:|:---|
-| Psystrike | Psychic | Special | 100 | 100 | 10 | phys def · neutral to Dark · shell side arm clone |
+| Psystrike | Psychic | Special/Physical | 100 | 100 | 10 | use higher attaking stat · target weaker defence · neutral damage to Dark |
 
 ### Species
 
@@ -35,7 +35,7 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #142 | **Aerodactyl** | - | - | - | Giga Impact Lv.60 → **Head Smash** Lv.60 <br> **Brave Bird** TM|
 | #143 | **Snorlax** | - | - | - | **Slack Off** Lv.1 |
 | #149 | **Dragonite** | - | - | - | **Dragon Ascent** Lv.71 |
-| #150 | **Mewtwo** | - | - | Pressure → **Neuroforce** <br> Unnerve (H) → **Psychic Surge (H)** |
+| #150 | **Mewtwo** | - | - | Pressure → **Neuroforce** <br> Unnerve (H) → **Psychic Surge (H)** | - |
 | #215 | **Sneasel** | - | - | - | Slash Lv.50 → **Mountain Gale** Lv.50 |
 | #249 | **Lugia** | Psychic/Flying → **Water**/Flying | - | - | - |
 | #285 | **Shroomish** | - | - | - | Giga Drain Lv.26 → **Lv.22** <br> **Trailblaze** Lv.26 TM |

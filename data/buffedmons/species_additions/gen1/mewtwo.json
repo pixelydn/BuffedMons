@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:mewtwo",
+    "abilities": [
+        "neuroforce",
+        "h:psychicsurge"
+    ]
+}
