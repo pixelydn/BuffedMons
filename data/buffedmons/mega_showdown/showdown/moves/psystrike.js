@@ -7,6 +7,7 @@
 	pp: 10,
 	priority: 0,
 	flags: {protect: 1, mirror: 1, metronome: 1},
+	ignoreImmunity: {Psychic: true},
 	onEffectiveness(typeMod, target, type) {
 		if (type === 'Dark') return 0;
 	},
