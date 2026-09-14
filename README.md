@@ -1,5 +1,9 @@
 # BuffedMons
-A datapack buffing certain Pokémons
+A datapack buffing certain Pokémons.
+
+The buffs needs the thematically make sense and make them viable in UU/OU/Uber under Gen 9 standards. 
+<br>
+Also I like the idea of a Pokémon group so if 1 in the group out buff the rest will too.
 
 ### Requirement
 
@@ -22,10 +26,8 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | Dex | Pokémon | Type | Stats | Abilities | Moves |
 |:---:|:---|:---|:---|:---|:---|
 | #094 | **Gengar** | - | - | **Levitate** <br> **Sheer Force (H)** | - |
-| #123 | **Scyther** | - | - | - | **Fell Stinger** Lv.48 |
 | #143 | **Snorlax** | - | - | - | **Slack Off** Lv.1 |
 | #149 | **Dragonite** | - | - | - | **Dragon Ascent** Lv.71 |
-| #212 | **Scizor** | - | - | - | **Fell Stinger** Lv.50 |
 | #215 | **Sneasel** | - | - | - | Slash Lv.50 → **Mountain Gale** Lv.50 |
 | #249 | **Lugia** | Psychic/Flying → **Water**/Flying | - | - | - |
 | #285 | **Shroomish** | - | - | - | Giga Drain Lv.26 → **Lv.22** <br> **Trailblaze** Lv.26 TM |
@@ -45,8 +47,9 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #598 | **Ferrothorn** | - | - | - | **Snap Trap** Lv.1 evo |
 | #612 | **Haxorus** | Dragon → Dragon/**Steel** | **HP** 76 → **106** <br> **Atk** 147 → **167** <br> **Def** 90 → **100** | Unnerve (H) → **Sharpness (H)** | Outrage Lv.46 → **Excalibur**(new) Lv.46 |
 | #638 | **Cobalion** | - | - | **Sharpness (H)** | **Tachyon Cutter** Lv.1 |
-| #639 | **Terrakion** | - | - | **Sharpness (H)** | **Mighty Cleave** Lv.1 |
+| #639 | **Terrakion** | - | - | **Sharpness (H)** | **Mighty Cleave** Lv.1 <br> Quick Attack Lv.1 → **Accelerock** Lv.1 |
 | #640 | **Virizion** | - | - | **Sharpness (H)** | **Psyblade** Lv.1 |
+| #647 | **Keldeo** | - | - | **Sharpness (H)** |
 | #706 | **Goodra** | Dragon → Dragon/**Water** | - | Sap Sipper → **Gooey** <br> Gooey (H) → **Poison Heal (H)** | - |
 
 ### Moves
