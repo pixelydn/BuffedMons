@@ -7,17 +7,15 @@
 	pp: 10,
 	priority: 0,
 	flags: {protect: 1, mirror: 1, metronome: 1},
-    onEffectiveness(typeMod, target, type) {
+	onEffectiveness(typeMod, target, type) {
 		if (type === 'Dark') return 0;
 	},
-    onModifyMove(move, pokemon, target) {
-		// Use the higher Attack or Special Attack stat
+	onModifyMove(move, pokemon, target) {
 		if (pokemon.getStat('atk', false, true) > pokemon.getStat('spa', false, true)) {
 			move.category = 'Physical';
 		} else {
-			move.category = 'Special'; 
+			move.category = 'Special';
 		}
-		// Target the weaker Defense or Special Defense stat
 		if (!target) return;
 		if (target.getStat('def', false, true) < target.getStat('spd', false, true)) {
 			move.overrideDefensiveStat = 'def';

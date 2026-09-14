@@ -1,5 +1,5 @@
 {
-    "target":"cobblemon.aerodactyl",
+    "target":"cobblemon:aerodactyl",
     "moves": [
     "1:bite",
     "1:ancientpower",
