@@ -7,7 +7,11 @@ Also I like the idea of a Pokémon group so if 1 in the group out buff the rest 
 
 Feel free to drop any suggestions as an issue, I need more ideas.
 
-### Requirement
+### Installation
+
+Drop this pack in both the datapacks folder of your save and the resource pack folder
+
+### Requirements
 
 1. [Cobblemon](https://modrinth.com/mod/cobblemon) 1.8 or newer
 
@@ -36,7 +40,6 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 | #094 | **Gengar** | - | - | **Levitate** <br> **Sheer Force (H)** | - |
 | #142 | **Aerodactyl** | - | - | - | Giga Impact Lv.60 → **Head Smash** Lv.60 <br> **Brave Bird** TM|
 | #143 | **Snorlax** | - | - | - | **Slack Off** Lv.1 |
-| #149 | **Dragonite** | - | - | - | **Dragon Ascent** Lv.71 |
 | #150 | **Mewtwo** | - | - | Pressure → **Neuroforce** <br> Unnerve (H) → **Psychic Surge (H)** | - |
 | #215 | **Sneasel** | - | - | - | Slash Lv.50 → **Mountain Gale** Lv.50 |
 | #249 | **Lugia** | Psychic/Flying → **Water**/Flying | - | - | - |
@@ -65,6 +68,9 @@ Added Fire and Bug weakness to Fairy type and Electric weakness to Steel type.
 ### Abilities
 Gale Wings revert back to Gen 6
 Justified activating by Dark **Ghost** and **Bug** type attacks, and boost Atk and **Spa** by 1 stage
+
+### Items
+The pinch healing berries heal 50% of max HP (Gen 7 effect)
 
 ## AI Disclosure
 Why would I vibe code such an easy project?

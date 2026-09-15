@@ -1,7 +1,8 @@
 {
     "cobblemon.move.excalibur": "Excalibur",
     "cobblemon.move.excalibur.desc": "The user slashes the enemy using the holy sword",
-    
+
+    "cobblemon.move.psystrike.desc": "The user materializes an odd psychic wave to attack the target. This move deals damage using the higher attack stat of the user, and the weaker defence stat of the target.",
     "cobblemon.battle.activate.psystrike.physicalphysical": "Physical Psystrike dealing Physical damage",
     "cobblemon.battle.activate.psystrike.physicalspecial": "Physical Psystrike dealing Special damage",
     "cobblemon.battle.activate.psystrike.specialphysical": "Special Psystrike dealing Physical damage",
